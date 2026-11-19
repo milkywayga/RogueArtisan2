@@ -51,8 +51,8 @@ window.ROGUE_PRODUCTS = [
     "filterGroup": "Bags & Travel",
     "price": null,
     "page": "bags.html",
-    "image": "images/tote-bag.jpg",
-    "summary": "A small collection of handmade bags, built around the intended use, materials and details of each commission."
+    "image": "images/tote-bag-19.jpg",
+    "summary": "A small collection of handmade bags."
   },
   {
     "id": "dopp",
