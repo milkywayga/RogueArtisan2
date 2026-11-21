@@ -41,7 +41,7 @@ if(productField){ const requested = new URLSearchParams(window.location.search).
 if(form){
   form.addEventListener("submit", (e)=>{
     e.preventDefault();
-    const email = "YOUR_EMAIL@example.com"; // <-- change this
+    const email = "rogueartisan@outlook.com"; // <-- change this
     const data = new FormData(form);
     const subject = encodeURIComponent("Leatherwork commission inquiry");
     const body = encodeURIComponent(
