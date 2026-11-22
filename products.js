@@ -21,8 +21,8 @@ window.ROGUE_PRODUCTS = [
     "filterGroup": "Wallets",
     "price": 185,
     "page": "the-sentinel.html",
-    "image": "images/products/sentinel-mk-ii-1.jpg",
-    "summary": "A handcrafted bifold wallet designed for dependable everyday carry."
+    "image": "images/products/sentinel-1.jpg",
+    "summary": "A handcrafted bifold wallet designed with two more card pockets than the Classic. Timeless."
   },
   {
     "id": "rolltop",
@@ -49,9 +49,9 @@ window.ROGUE_PRODUCTS = [
     "name": "Bags",
     "category": "Bags",
     "filterGroup": "Bags & Travel",
-    "price": null,
+    "price": 1500,
     "page": "bags.html",
-    "image": "images/tote-bag-19.jpg",
+    "image": "images/products/tote-bag-19.jpg",
     "summary": "A small collection of handmade bags."
   },
   {
@@ -59,9 +59,9 @@ window.ROGUE_PRODUCTS = [
     "name": "Catch-All Trays",
     "category": "Desk & Everyday",
     "filterGroup": "Small Goods",
-    "price": null,
+    "price": 40,
     "page": "catch-all-trays.html",
-    "image": "",
+    "image": "images/products/trays-1.jpg",
     "summary": "Handmade catch-all trays for keeping everyday carry, keys and small essentials in one place."
   },
   {
@@ -72,16 +72,16 @@ window.ROGUE_PRODUCTS = [
     "price": 250,
     "page": "sentinel-mk-ii.html",
     "image": "images/products/sentinel-mk-ii-1.jpg",
-    "summary": "A bifold built on contrast — a royal blue exterior, a pebbled orange interior, and bright blue saddle-stitching."
+    "summary": "A bifold built with purpose to keep watch over the important things. Version 2."
   },
   {
     "id": "cardholders",
     "name": "Cardholders",
     "category": "Small Goods",
     "filterGroup": "Small Goods",
-    "price": null,
+    "price": 50,
     "page": "cardholders.html",
     "image": "images/hero.jpg",
-    "summary": "Compact cardholders made for the essentials, with each piece crafted by hand."
+    "summary": "Compact cardholders made for the essentials."
   }
 ];
