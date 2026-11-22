@@ -9,9 +9,9 @@ window.ROGUE_PRODUCTS = [
     "name": "The Classic Bifold",
     "category": "Wallets",
     "filterGroup": "Wallets",
-    "price": null,
+    "price": 150,
     "page": "classic-bifold.html",
-    "image": "images/work-wallet-full.jpg",
+    "image": "images/products/classic-1.jpg",
     "summary": "A classic bifold design, made by hand with considered construction and a clean everyday profile."
   },
   {
