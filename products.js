@@ -12,7 +12,7 @@ window.ROGUE_PRODUCTS = [
     "price": 150,
     "page": "classic-bifold.html",
     "image": "images/products/classic-1.jpg",
-    "summary": "A classic bifold design, made by hand with considered construction and a clean everyday profile."
+    "summary": "A classic bifold design, a clean everyday profile."
   },
   {
     "id": "bifold",
