@@ -1,7 +1,7 @@
 /* ROGUE ARTISAN PRODUCT CATALOGUE
    Edit product names, prices, categories, summaries and main photos here.
    Set image to a path in images/; use an empty string for the built-in placeholder.
-   Set price to null to display “Enquire for pricing”.
+   Set price to null to display “Inquire for pricing”.
 */
 window.ROGUE_PRODUCTS = [
   {
@@ -51,7 +51,7 @@ window.ROGUE_PRODUCTS = [
     "filterGroup": "Bags & Travel",
     "price": 1500,
     "page": "bags.html",
-    "image": "images/products/tote-bag-19.jpg",
+    "image": "images/products/tote-bag-19.jpeg",
     "summary": "A small collection of handmade bags."
   },
   {
